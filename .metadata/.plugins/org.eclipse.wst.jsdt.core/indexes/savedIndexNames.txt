@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\ENETCOM\2 GT 1\cours\JEE\Proj JEE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
